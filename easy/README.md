@@ -1,1 +1,1 @@
-# Lua Exercise on Exerism answer collections
+# Have a good day, keep going
