@@ -1,1 +1,1 @@
-# Lua Exercise on Exerism answer collections
+# Lua on Exerism answer collections
